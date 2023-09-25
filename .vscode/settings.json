@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://fskeoxex:dAjbjLH3mgaTc9Lk_XaiE_ugg1VfQFYx@lallah.db.elephantsql.com/fskeoxex",
+            "name": "shohas_dealership"
+        }
+    ]
+}
